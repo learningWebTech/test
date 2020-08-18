@@ -10,8 +10,14 @@ SAML
 
 OAuth 2.0
 
+OpenId
+
+Password Protected
 
 Thank You
 
 
+
+Task Completed
 Finally
+
